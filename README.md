@@ -1,2 +1,2 @@
 # Airline-Pilot-Management-System
-A Java program to manage pilot records for an airline. Users can add pilots with their flight hours and number of flights. The app displays airline info and recognizes pilots with the most achievements.
+A comprehensive Java program to manage and maintain pilot records for an airline company. Users can interactively add pilots along with their flight experience, including total flight hours and the number of completed flights. The application provides a user-friendly interface to display detailed information about the airline and its pilots. Additionally, it highlights and acknowledges pilots with exceptional performance and outstanding achievements in their careers.
