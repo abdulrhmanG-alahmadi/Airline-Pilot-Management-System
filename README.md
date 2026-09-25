@@ -1,4 +1,8 @@
-![Airline Pilot Manager — object-oriented Java in practice](docs/cover.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/cover.svg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/cover-light.svg">
+  <img alt="Airline Pilot Manager — Object-oriented Java in practice" src="docs/cover.svg" width="1200">
+</picture>
 
 # Airline Pilot Manager
 
