@@ -1,0 +1,19 @@
+Enter Airline Name: 
+Enter Pilot Name: 
+Enter Pilot Age 
+Total Flight Hours: 
+Total Numbers of Flights: 
+Do you want to add another Pilot? (Yes/No) :
+Airline Name: DemoAir Airline
+-----------------------------------------------------------------------
+-----Pilots Participated in the Airline--------------------------------
+-----------------------------------------------------------------------
+Pilot{name=Alex, age=30}
+Flight Record{total Flight Hours =2500, total Numbers of Flights=1200}
+-----------------------------------------------------------------------
+-----List All Pilots with Trophy---------------------------------------
+-----------------------------------------------------------------------
+Pilot{name=Alex, age=30}
+Flight Record{total Flight Hours =2500, total Numbers of Flights=1200}
+Trophy: Platinum membership in class "A" hotels
+-----------------------------------------------------------------------
